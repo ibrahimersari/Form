@@ -13,7 +13,6 @@ function App() {
   },
   onSubmit: (values) => {
     console.log(values);
-    console.log('ibo');
   },
   });
   return (
